@@ -6,7 +6,7 @@
 
 🔐 Entusiasta em **cibersegurança**, estudando **pentest**, com foco em **práticas de segurança ofensiva**, **engenharia social**, e **resposta a incidentes**. Utilizo ferramentas como **Kali Linux** e realizo desafios práticos em plataformas como **Hack The Box**.
 
-💻 Apaixonado por **programação**, possuo conhecimentos em **Python**, **C++**, **HTML**, **JavaScript** e **React**, aplicando essas tecnologias tanto em projetos de segurança quanto em desenvolvimento web e automações.
+💻 Apaixonado por **programação**, possuo conhecimentos em **Python**, **C++**, **HTML**, **JavaScript** e **React**, aplicando essas tecnologias tanto em projetos de segurança quanto em desenvolvimento e automações.
 
 🚀 Iniciei a iniciativa **Cyberon – Consultoria e Cibersegurança**, voltada para prestação de serviços e disseminação de boas práticas de segurança da informação.
 
@@ -15,6 +15,7 @@
 - Gerenciamento de redes e ambientes Linux
 - Automação com Python
 - Desenvolvimento web com HTML, JavaScript e React
+- Desenvolvimento em geral
 - Gestão de riscos e resposta a incidentes
 
 📫 Entre em contato:
