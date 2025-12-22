@@ -4,11 +4,9 @@
 
 🎓 Universitário na [UNISATC](https://www.satc.edu.br/), cursando **Engenharia da Computação**.
 
-🔐 Entusiasta em **cibersegurança**, estudando **pentest**, com foco em **práticas de segurança ofensiva**, **engenharia social**, e **resposta a incidentes**. Utilizo ferramentas como **Kali Linux** e realizo desafios práticos em plataformas como **Hack The Box**.
+🔐 Entusiasta em **cibersegurança**, estudando **pentest**, com foco em **práticas de segurança ofensiva**, **engenharia social**, e **resposta a incidentes**. Utilizo ferramentas como **Kali Linux** e realizo desafios práticos em plataformas como **TryHackMe**.
 
 💻 Apaixonado por **programação**, possuo conhecimentos em **Python**, **C++**, **HTML**, **JavaScript** e **React**, aplicando essas tecnologias tanto em projetos de segurança quanto em desenvolvimento e automações.
-
-🚀 Iniciei a iniciativa **Cyberon – Consultoria e Cibersegurança**, voltada para prestação de serviços e disseminação de boas práticas de segurança da informação.
 
 🛠️ Tecnologias e áreas de interesse:
 - Segurança ofensiva e engenharia social
@@ -19,10 +17,10 @@
 - Gestão de riscos e resposta a incidentes
 
 📫 Entre em contato:
-- ✉️ [miguelgfirme015@gmail.com](mailto:miguelgfirme015@gmail.com)
+- ✉️ [miguelgfirme015@gmail.com](mailto:miguelgfirme@hotmail.com)
 - 🌍 [Localização Grupo OLIVO](https://g.co/kgs/md3PD2d)
 
-🏢 Atualmente atuando no setor de custos e processos no **Grupo OLIVO**.
+🏢 Atualmente atuando no setor de custos e processos no **[Grupo OLIVO](https://olivoimplementos.com.br)**.
 
 ---
 
