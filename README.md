@@ -23,10 +23,11 @@
 - Gestão de riscos e resposta a incidentes
 
 📫 Entre em contato:
-[![zap](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5548998036211)
-[![outlook](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miguelgfirme@hotmail.com)
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-antonio-773b07380/)
 
+  [![zap](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5548998036211)
+  [![outlook](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miguelgfirme@hotmail.com)
+  [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-antonio-773b07380/)
+  
 🏢 Atualmente atuando no setor de custos e processos no **[Grupo OLIVO](https://olivoimplementos.com.br)**.
 
 ---
